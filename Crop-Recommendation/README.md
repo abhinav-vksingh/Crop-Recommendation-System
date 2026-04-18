@@ -115,8 +115,7 @@ Crop-Recommendation/
 │
 └── static/
     └── crop.png
-'''text
-
+```
 
 ## How to Run the Project ->
 
@@ -160,3 +159,5 @@ This project demonstrates:
 # 👨‍💻 Developed By
 
 **Abhinav Singh**
+
+
